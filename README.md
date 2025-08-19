@@ -8,5 +8,5 @@ Fun beginner project showcasing GUI development, random logic, and real-time sco
 ## 🚀 How to Run  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   git clone ____
    cd rock-paper-scissors-game
